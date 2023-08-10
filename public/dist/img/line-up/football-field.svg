@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="591px" height="364px" viewBox="0 0 591 364" enable-background="new 0 0 591 364" xml:space="preserve">
+<g>
+	<path fill="none" stroke="#ffffff" stroke-width="2" d="M1,363V1h590v362H1z M296,364V0"/>
+	<path fill="none" stroke="#ffffff" stroke-width="2" d="M591,291h-95V73h95"/>
+	<path fill="none" stroke="#ffffff" stroke-width="2" d="M592,233h-33V131h33 M0,233h32V131H0"/>
+	<path fill="none" stroke="#ffffff" stroke-width="2" d="M0,291h95V73H0 M296,132c27.615,0,50,22.386,50,50s-22.385,50-50,50
+		c-27.615,0-50-22.386-50-50S268.385,132,296,132z M95,142c12.686,8.65,21,23.115,21,39.499c0,16.386-8.314,30.85-21,39.501
+		 M496,142c-12.686,8.65-21,23.115-21,39.499c0,16.386,8.314,30.85,21,39.501 M592,9c-4.969,0-9-4.03-9-9 M592,355
+		c-4.969,0-9,4.029-9,9 M0,9c4.97,0,9-4.03,9-9 M0,355c4.97,0,9,4.029,9,9"/>
+	<path fill="none" stroke="#ffffff" stroke-width="4" d="M296,179c1.656,0,3,1.344,3,3s-1.343,3-3,3c-1.657,0-3-1.344-3-3S294.343,179,296,179"/>
+</g>
+</svg>
+
